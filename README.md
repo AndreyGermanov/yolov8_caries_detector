@@ -4,7 +4,7 @@ This repository contains the YOLOv8 object detection web service, that detects c
 
 The DentalAI dataset used to train the model. You can download it from here: https://datasetninja.com/dentalai. If you want to run your own training process, you need to convert it to the YOLOv8 format, using the script in the `convert.ipynb` notebook.
 
-This is a source code for the [Teeth caries detection using YOLOv8 neural network](https://dev.to/andreygermanov/caries-detection-using-yolov8-network-12eb-temp-slug-712900?preview=05c13ab22a7d3807c1419bbc3d87f3493a1e0aca0804e41fb09fdaf5b851a547bf442e7fba9700f064d86418c0b50669411b33326c89a009630241e6#convert_annotations). Read it to learn in detail how this code created and works.
+This is a source code for the [Teeth caries detection using YOLOv8 neural network](https://dev.to/andreygermanov/teeth-caries-detection-using-yolov8-neural-network-3fap). Read it to learn in detail how this code created and works.
 
 ## Contents
 
